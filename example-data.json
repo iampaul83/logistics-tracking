@@ -1,0 +1,24 @@
+{
+    "ErrorCode": "000",
+    "ErrorMessage": "成功",
+    "List": [{
+        "ORDER_NO": "0000000000000",
+        "EC_ORDER_NO": "0000000000000",
+        "ORDERMESSAGE": "物流收件配送中",
+        "SEND_STORE_NAME": "全家新店XX店",
+        "RCV_STORE_NAME": "全家中壢XX店",
+        "STORE_ADDRESS": "桃園市中壢區",
+        "STORE_TEL": "03-",
+        "ORDER_DATE_02": "2017/12/25",
+        "ORDER_DATE_02_B": "2017/12/25 21:59",
+        "ORDER_DATE_03": "2017/12/26",
+        "ORDER_DATE_03_B": "2017/12/26 00:38",
+        "ORDER_DATE_08": null,
+        "ORDER_DATE_08_B": null,
+        "ORDER_DATE_09": null,
+        "ORDER_DATE_09_B": null,
+        "ORDER_DATE_RTN": null,
+        "ORDER_DATE_1213": null,
+        "ORDER_DATE_1213_B": null
+    }]
+}
